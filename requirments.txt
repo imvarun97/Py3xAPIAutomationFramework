@@ -5,3 +5,4 @@ faker
 allure-pytest
 jsonschema
 pytest-xdist
+openpyxl
